@@ -23,4 +23,5 @@ complete sales analytics dashboard from start to finish. It’s structured as a 
 6. Published the dashboard as a portfolio‑ready project.
 
 **🎯 Outcome**
-The result is a professional‑grade sales analytics dashboard that demonstrates both technical depth and business acumen. It provides actionable insights across sales, shipment, and profitability dimensions, and serves as a strong portfolio artifact for showcasing advanced Power 
+
+The result is a professional‑grade sales analytics dashboard that demonstrates both technical depth and business acumen. It provides actionable insights across sales, shipment, and profitability dimensions, and serves as a strong portfolio artifact for showcasing advanced Power
