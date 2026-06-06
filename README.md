@@ -4,8 +4,8 @@ complete sales analytics dashboard from start to finish. It’s structured as a 
 <img width="800" height="450" alt="ezgif-5b0eb6e89aff5ae8" src="https://github.com/user-attachments/assets/05e19213-c691-4bea-98d1-0fd00851ca92" />
 
 **🔑 Key Learning Points**
-Applied best‑practice dashboard design principles in Power BI to ensure clarity and executive usability.
-Structured the dataset with a star schema for scalable and efficient modeling.
+1. Applied best‑practice dashboard design principles in Power BI to ensure clarity and executive usability.
+2. Structured the dataset with a star schema for scalable and efficient modeling.
 Established a dedicated measure table with DAX KPIs, enabling consistent calculations across visuals.
 Implemented time intelligence functions for robust month‑over‑month and year‑over‑year analysis.
 Leveraged advanced visuals (KPI cards, reference labels, gauge charts, histograms, zoom slider) to highlight performance drivers.
