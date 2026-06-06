@@ -1,4 +1,5 @@
 <img width="800" height="450" alt="ezgif-5b0eb6e89aff5ae8" src="https://github.com/user-attachments/assets/05e19213-c691-4bea-98d1-0fd00851ca92" />
+<img width="1188" height="692" alt="image" src="https://github.com/user-attachments/assets/7228e8a4-b4c8-4e71-bd42-4f00e2951e03" />
 
 **🔑 Key Learning Points**
 1. Applied best‑practice dashboard design principles in Power BI to ensure clarity and executive usability.
